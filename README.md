@@ -1,3 +1,5 @@
+![This is a gif](https://media3.giphy.com/media/9Nih83HKDl0UE/giphy.gif)
+
 ### Hi there 👋
 I'm Vincentius Adisurya Fransisco Antu, you can call me Vincent/Icen, I'm currently studying at Electrical Engineering, Telkom University.
 
