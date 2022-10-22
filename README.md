@@ -1,5 +1,22 @@
 ### Hi there 👋
-Honestly I have no idea what I suppose to put here
+I'm Vincentius Adisurya Fransisco Antu, you can call me Vincent/Icen, I'm currently studying at Electrical Engineering, Telkom University.
+
+### Hobbies
+- Sports
+- Music
+- Programming
+
+### Interests
+- Web Development
+- Internet of Things
+- Cloud Computing
+
+### Contact Me
+- [Instagram](https://www.instagram.com/vincentiusantu)
+- [Twitter](https://twittwe.com/vincent_va10)
+- [Whatsapp](https://wa.me/6282311457280)
+
+
 ```
 #include<stdio.h>
 #include<stdbool.h>
