@@ -8,10 +8,10 @@ I'm Vincentius Adisurya Fransisco Antu, you can call me Vincent/Icen, I'm curren
 - Music
 - Programming
 
-### Interests
+<!-- ### Interests
 - Web Development
 - Internet of Things
-- Cloud Computing
+- Cloud Computing -->
 
 ### Contact Me
 - [Instagram](https://www.instagram.com/vincentiusantu)
