@@ -15,7 +15,7 @@ I'm Vincentius Adisurya Fransisco Antu, you can call me Vincent/Icen, I'm curren
 
 ### Contact Me
 - [Instagram](https://www.instagram.com/vincentiusantu)
-- [Twitter](https://twitter.com/vincent_va10)
+- [Twitter](https://twitter.com/vincentiusantu)
 - [Whatsapp](https://wa.me/6282311457280)
 
 
