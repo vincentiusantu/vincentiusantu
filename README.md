@@ -1,22 +1,18 @@
 ![This is a gif](https://media3.giphy.com/media/9Nih83HKDl0UE/giphy.gif)
 
 ### Hi there 👋
-I'm Vincentius Adisurya Fransisco Antu, you can call me Vincent/Icen, I'm currently studying at Electrical Engineering, Telkom University.
+Lifelong Learner, that's how I describe myself. Have an interest in learning things. Since I graduated from high school, I've had an interest in programming. Currently, I'm deepening Software Engineering, Internet of Things, Artificial Intelligence, and Signal Processing. Maybe there will be interesting things in my life in the future, but who knows? Let's keep going. See ya!!!
 
-### Hobbies
-- Sports
-- Music
-- Programming
-
-<!-- ### Interests
+### Interests
 - Web Development
 - Internet of Things
-- Cloud Computing -->
+- Artificial Intelligence
+- Signal Processing
 
 ### Contact Me
 - [Instagram](https://www.instagram.com/vincentiusantu)
-- [Twitter](https://twitter.com/vincentiusantu)
-- [Whatsapp](https://wa.me/6282311457280)
+- [X](https://www.x.com/vincentiusantu)
+- [LinkedIn](https://www.linkedin.com/in/vincentiusantu)
 
 
 ```
